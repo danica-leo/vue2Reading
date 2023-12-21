@@ -1,2 +1,1 @@
-# vue2Reading
-record my questions and understanding
+#FOR MY OWN READING RECORD
